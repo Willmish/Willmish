@@ -2,7 +2,7 @@
 
 I am a techie/windsurfer currently studying Computer Science at UCL and looking out for [wind 💨](https://www.windguru.cz/1013640). I am an Open Technology Engineer at Avanade, working on Open Source - currently co-chairing [Carbon Aware SDK project](https://github.com/Green-Software-Foundation/carbon-aware-sdk) at Green Software Foundation.
 
-Also a game development enjoyer (just for fun!), took part in Warsaw Film School GameJam VI, WFS Game Jam Pro and won HackYeah Game Development Jam !
+Also a game development enjoyer (just for fun!), took part in Warsaw Film School GameJam VI, WFS Game Jam Pro, Copernicus GameJam, and won HackYeah Game Development Jam !
 
 
 - 🌱 [Sustainability Award Winner from OpenUK Awards 2022](https://openuk.uk/openuk-awards-third-edition/)
