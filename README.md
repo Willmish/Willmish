@@ -7,6 +7,7 @@ Also a game development enjoyer (just for fun!), took part in Warsaw Film School
 
 - 🌱 [Sustainability Award Winner from OpenUK Awards 2022](https://openuk.uk/openuk-awards-third-edition/)
 -  💬 [Speaker Award](https://www.credly.com/badges/dd27d15b-504b-4ea1-8b48-c1cf9963acdc/public_url) from Linux Foundation Open Source Summit: Watch my talk [here](https://youtu.be/-CmyrpisHXM)
+-  💬[Speaker](https://stateofopencon.com/2023/01/07/szymon-duchniewicz-2/) during State Of Open Con 2023: Watch my talk [here](https://www.youtube.com/watch?v=heR3pyOHARs&t=176s)
 - 🥇 HackYeah 2022 GameJam Winner: [Sticky Piston Studios took the W](https://discord.com/channels/562562467943809052/760475328585007135/1043942328798281778) for the Game Development "Literature: Trilogy" theme.
 - 📫 How to reach me: Email/Discord
 - 😄 Pronouns: He/Him
