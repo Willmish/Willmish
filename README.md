@@ -1,6 +1,6 @@
 ### Hi there 👋🤙
 
-I am a techie/windsurfer currently studying Computer Science at UCL and looking out for [wind 💨](https://www.windguru.cz/1013640). I am an Open Technology Engineer at Avanade, working on Open Source - currently co-chairing [Carbon Aware SDK project](https://github.com/Green-Software-Foundation/carbon-aware-sdk) at Green Software Foundation.
+I am a techie/windsurfer currently studying Computer Science at UCL and looking out for [wind 💨](https://www.windguru.cz/1013640). Recently working with the [seL4 microkernel](https://github.com/seL4/seL4) to improve the memory management system of Google's [CantripOS embedded OS](https://opensource.googleblog.com/2023/11/project-open-se-cura-open-source-announcement.html) in Rust 🦀. I am an Open Technology Engineer at Avanade, working on Open Source - currently co-chairing [Carbon Aware SDK project](https://github.com/Green-Software-Foundation/carbon-aware-sdk) at Green Software Foundation.
 
 Also a game development enjoyer (just for fun!), took part in Warsaw Film School GameJam VI, WFS Game Jam Pro, Copernicus GameJam, and won HackYeah Game Development Jam !
 
